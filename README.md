@@ -1,4 +1,4 @@
-# docsTemplate
-its just a template Repository for documentation
+# PyTorch Implementaion
+## This repository contains simple implementation of PyTorch.
 
-Click on `Use this template` button on the top right to use this repository as a boiler plate for your next documentation
+Click here https://github.com/animesh-rai/Pytorch-Basics Refer the documentation associated with this repository.
